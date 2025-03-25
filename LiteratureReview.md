@@ -22,6 +22,8 @@ Contributions: Determines the feasibility and importance of combining AI and IoT
 
 
 
+
+
 Research Paper #2 AI Application in the Aviation Sector
 
 Author: Mahmoud Abubakar; Odunlami EriOluwa; Mangai Teyei; Fadi Al-Turjman
@@ -29,6 +31,7 @@ Author: Mahmoud Abubakar; Odunlami EriOluwa; Mangai Teyei; Fadi Al-Turjman
 Link: https://ieeexplore.ieee.org/document/10102147
 
 Year: 2023
+
 
 #2 Theme: Use of AI in improving aviation systems, safety, and efficiency.
 
@@ -48,6 +51,8 @@ Contribution: Highlights critical applications and benefits of AI in a high-stak
 
 
 
+
+
 Research Paper #3 Design of Highway Intelligent Transportation System Based on the Internet of Things and Artificial Intelligence
 
 Author：Yang Cui; Dongfei Lei
@@ -55,6 +60,7 @@ Author：Yang Cui; Dongfei Lei
 Link: https://ieeexplore.ieee.org/document/10122968
 
 Year: 2023
+
 
 #3 Theme: Smart highway infrastructure using IoT sensors and AI algorithms.
 
