@@ -1,4 +1,6 @@
-Research Paper #1 AI and IoT-based Electric Vehicle Monitoring System
+Research Paper #1 
+
+AI and IoT-based Electric Vehicle Monitoring System
 
 Author: M. Bharathi; K. Geetha; P. K Mani.; G. Nixon Samuel Vijayakumar; K. Srinivasan; Kallakunta Ravi Kumar
 
@@ -10,7 +12,9 @@ Link: https://ieeexplore.ieee.org/document/9987282
 
 
 
-#1 Theme: Application of AI and IoT in EV health and usage monitoring.
+#1 
+
+Theme: Application of AI and IoT in EV health and usage monitoring.
 
 Methodology: Real-time collection of sensor data through IoT module; anomaly detection using AI algorithms.
 
@@ -22,6 +26,7 @@ Research Gaps: Limited scalability, real-world deployment challenges.
 Security of IoT data has not been addressed in depth.
 
 Contributions: Determines the feasibility and importance of combining AI and IoT for smart EV diagnostics and monitoring.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -31,8 +36,9 @@ Contributions: Determines the feasibility and importance of combining AI and IoT
 
 
 
+Research Paper #2 
 
-Research Paper #2 AI Application in the Aviation Sector
+AI Application in the Aviation Sector
 
 Author: Mahmoud Abubakar; Odunlami EriOluwa; Mangai Teyei; Fadi Al-Turjman
 
@@ -44,7 +50,9 @@ Year: 2023
 
 
 
-#2 Theme: Use of AI in improving aviation systems, safety, and efficiency.
+#2 
+
+Theme: Use of AI in improving aviation systems, safety, and efficiency.
 
 Methodology: Case studies and review of AI technologies applied to air traffic control, predictive maintenance, and pilot assistance.
 
@@ -57,6 +65,7 @@ Research Gaps: Lack of standardization for AI systems in aviation.
 Challenges in real-time AI decision implementation due to strict regulations.
 
 Contribution: Highlights critical applications and benefits of AI in a high-stakes industry, showing the reliability demands of intelligent systems.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -66,8 +75,9 @@ Contribution: Highlights critical applications and benefits of AI in a high-stak
 
 
 
+Research Paper #3 
 
-Research Paper #3 Design of Highway Intelligent Transportation System Based on the Internet of Things and Artificial Intelligence
+Design of Highway Intelligent Transportation System Based on the Internet of Things and Artificial Intelligence
 
 Author：Yang Cui; Dongfei Lei
 
@@ -78,7 +88,9 @@ Year: 2023
 
 
 
-#3 Theme: Smart highway infrastructure using IoT sensors and AI algorithms.
+#3 
+
+Theme: Smart highway infrastructure using IoT sensors and AI algorithms.
 
 Methodology: Design of a model system for monitoring traffic flow, speed regulation, and accident prediction using AI.
 
