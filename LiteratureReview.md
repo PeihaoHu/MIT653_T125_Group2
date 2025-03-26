@@ -85,8 +85,7 @@ Link: https://ieeexplore.ieee.org/document/10866781
 
 #3 
 
-Theme:
-Comprehensive review of IoT-based Intelligent Transportation Systems with focus on traffic control and safety.
+Theme: Comprehensive review of IoT-based Intelligent Transportation Systems with focus on traffic control and safety.
 
 Methodology:
 Literature survey and conceptual modeling of ITS components including sensing, communication, and AI-driven control.
