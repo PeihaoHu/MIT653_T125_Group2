@@ -10,9 +10,7 @@ Link: https://ieeexplore.ieee.org/document/9987282
 
 #1 
 
-Theme: 
-
-Application of AI and IoT in EV health and usage monitoring.
+Theme: Application of AI and IoT in EV health and usage monitoring.
 
 Methodology: 
 
