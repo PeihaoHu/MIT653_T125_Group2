@@ -14,57 +14,66 @@ Link: https://ieeexplore.ieee.org/document/9987282
 
 #1 
 
-Theme: Application of AI and IoT in EV health and usage monitoring.
+Theme: 
 
-Methodology: Real-time collection of sensor data through IoT module; anomaly detection using AI algorithms.
+Application of AI and IoT in EV health and usage monitoring.
 
-Key Findings: Effective remote monitoring improves safety and predictive maintenance.
+Methodology: 
+
+Real-time collection of sensor data through IoT module; anomaly detection using AI algorithms.
+
+Key Findings: 
+
+Effective remote monitoring improves safety and predictive maintenance.
 AI is able to dynamically analyze sensor data for better decision making.
 
-Research Gaps: Limited scalability, real-world deployment challenges.
+Research Gaps: 
+
+Limited scalability, real-world deployment challenges.
 
 Security of IoT data has not been addressed in depth.
 
 Contributions: Determines the feasibility and importance of combining AI and IoT for smart EV diagnostics and monitoring.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-
-
-
-
-
-
-
-
 Research Paper #2 
 
-AI Application in the Aviation Sector
+Intelligent Transportation System (ITS) Using Internet of Things (IoT)
 
-Author: Mahmoud Abubakar; Odunlami EriOluwa; Mangai Teyei; Fadi Al-Turjman
-
-Link: https://ieeexplore.ieee.org/document/10102147
+Authors: Reza Khalilian, Seyyed Mohammadreza Talakesh, Abdalhossein Rezai
 
 Year: 2023
 
-
-
-
+Link: https://ieeexplore.ieee.org/document/10102147
 
 #2 
 
-Theme: Use of AI in improving aviation systems, safety, and efficiency.
+Theme:
+Implementation of a smart toll-based ITS using IoT and AI in the context of E-City development.
 
-Methodology: Case studies and review of AI technologies applied to air traffic control, predictive maintenance, and pilot assistance.
+Methodology:
+Combines AI-enabled IoT devices installed in vehicles with a cloud-based toll and data management system.
+Evaluated through SWOT and QSPM models; case study on Tehran.
 
-Key Findings: AI increases operational safety and reduces human error.
+Key Findings:
 
-Predictive analytics helps in aircraft component failure prediction.
+Dynamic toll calculation based on environmental and usage metrics.
 
-Research Gaps: Lack of standardization for AI systems in aviation.
+Improved municipal revenue and social justice in transportation costs.
 
-Challenges in real-time AI decision implementation due to strict regulations.
+Highlights benefits in air pollution control and reduced traffic congestion.
 
-Contribution: Highlights critical applications and benefits of AI in a high-stakes industry, showing the reliability demands of intelligent systems.
+Research Gaps:
+
+Legal and infrastructural readiness lacking.
+
+Public and manufacturer cooperation remains a challenge.
+
+Contributions:
+
+Presents a novel framework for calculating SECs (Social, Economic, Cultural) costs of vehicles.
+
+Offers strategic policy recommendations for smart city ITS deployment.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
