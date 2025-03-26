@@ -8,10 +8,6 @@ Year: 2022
 
 Link: https://ieeexplore.ieee.org/document/9987282
 
-
-
-
-
 #1 
 
 Theme: 
@@ -76,40 +72,39 @@ Presents a novel framework for calculating SECs (Social, Economic, Cultural) cos
 Offers strategic policy recommendations for smart city ITS deployment.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-
-
-
-
-
-
-
-
 Research Paper #3 
 
-Design of Highway Intelligent Transportation System Based on the Internet of Things and Artificial Intelligence
+Intelligent Transportation System
 
-Author：Yang Cui; Dongfei Lei
+Authors: Meenakshi Maindola, Shrikant Upadhyay, Ruchika Vats, Ramy Riad Al-Fatlawy, Dr. Ramya R, Arti Badhoutiya, B. Santhosh Kumar
 
-Link: https://ieeexplore.ieee.org/document/10122968
+Year: 2024
 
-Year: 2023
-
-
+Link: https://ieeexplore.ieee.org/document/10866781
 
 
 #3 
 
-Theme: Smart highway infrastructure using IoT sensors and AI algorithms.
+Theme:
+Comprehensive review of IoT-based Intelligent Transportation Systems with focus on traffic control and safety.
 
-Methodology: Design of a model system for monitoring traffic flow, speed regulation, and accident prediction using AI.
+Methodology:
+Literature survey and conceptual modeling of ITS components including sensing, communication, and AI-driven control.
 
-Key Findings: Improved traffic efficiency and safety via real-time data analysis.
+Key Findings:
 
-Integration of AI in traffic control enables adaptive signal control and congestion prediction.
+Integration of AI and IoT enables real-time, adaptive transport systems.
 
-Research Gaps: High dependency on robust network infrastructure.
+Proximity, ultrasonic, piezoelectric, and GPS sensors are key enablers.
 
-Limited testing under unpredictable weather and urban conditions.
+ITS can reduce congestion, delays, and environmental issues.
 
-Contribution: Demonstrates how AI and IoT can transform traditional highway systems into intelligent infrastructure networks.
+Research Gaps:
 
+Implementation challenges in existing city infrastructure.
+
+Privacy and security concerns related to sensor data collection.
+
+Contributions:
+
+Consolidates state-of-the-art IoT sensor tech for ITS.
