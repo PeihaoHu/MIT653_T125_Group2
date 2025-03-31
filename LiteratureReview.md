@@ -93,37 +93,3 @@ ________________________________________________________________________________
 
 
 
-Outline
-1. Introduction
-Background and research motivation:
-How cities face the challenge of traffic congestion
-Are there limitations to traditional traffic signal control systems
-The potential of artificial intelligence and the Internet of Things in traffic optimization
-Literature review and research questions
-
-2. Purpose and Aims of the Literature Review
-Clearly define the goal of the literature review
-Use AI and IoT to optimize traffic
-Identify and study the advantages and disadvantages of existing technologies
-Provide a theoretical basis for this research model
-
-3. Literature Review Process
-Keyword selection (such as: AI, IoT, Smart Traffic, Adaptive Traffic Control, etc.)
-Database and source (IEEE Xplore)
-Literature screening criteria (content related to urban smart traffic)
-
-4. Contribution of Reviewed Papers to Research Topic
-Specific inspiration of each article for this study
-How the content of the article helps the research project
-Support for the research project by existing methods or proposed new methods
-
-5. Proposed Structure for Final Literature Review
-Introduction
-Problem Context
-Related technology review (AI Techniques, IoT Architectures)
-Thematic Discussion
-Comparison of methods and evaluation Techniques
-Research Gaps and Future Work
-Conclusion
-
-6. References
