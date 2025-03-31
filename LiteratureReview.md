@@ -89,6 +89,25 @@ Privacy and security concerns related to sensor data collection.
 Contributions:
 Consolidates state-of-the-art IoT sensor tech for ITS.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Outline：
+
+Introduction
+
+Background of the problem
+
+Related technology review (artificial intelligence technology, Internet of Things architecture)
+
+Topic discussion
+
+Comparison of methods and evaluation techniques
+
+Research gaps and future work
+
+Conclusion
+
+References
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 
 
