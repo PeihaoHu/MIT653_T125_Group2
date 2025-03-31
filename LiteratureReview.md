@@ -107,7 +107,6 @@ Conclusion
 
 References
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 1. Introduction
 
 Background: Modern urban traffic problems are very serious, mainly reflected in traffic congestion
