@@ -107,15 +107,6 @@ Conclusion
 
 References
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
-1. Introduction
-
-Background: Modern urban traffic problems are very serious, mainly reflected in traffic congestion
-
-Research motivation: How to deal with traffic congestion
-
-Limitations of the current transportation system
-
-Artificial intelligence and the Internet of Things can help solve current problems
 
 
 
