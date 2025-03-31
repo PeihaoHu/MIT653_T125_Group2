@@ -107,17 +107,75 @@ Conclusion
 
 References
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
-1. Introduction
+Literature review report
+Introduction
+In major cities worldwide, traffic congestion has become one of the most urgent problems due to increasing urbanization. Conventional traffic signal systems, which rely on fixed timings, frequently fail to adapt to changing traffic patterns, resulting in needless delays, increased fuel use, and air pollution. Nonetheless, there is a revolutionary trend toward more intelligent, data-driven traffic management systems due to the quick development of artificial intelligence (AI) and the Internet of Things (IoT). This review of the literature looks at how real-time traffic signal optimization, congestion reduction, and urban mobility are being achieved through the application of AI and IoT.
+
+Purpose and aim of literature review report
+The primary objective of this literature review is to examine the present research and technological advantages by using IOT sensors in AI-driven traffic signal optimization. Aims are listed below:
+•	To gain an understanding of the technologies and methods used in intelligent traffic systems.
+•	To determine the advantages and disadvantages of the models in use today.
+•	To emphasize important developments like deep learning, image processing, and real-time analytics of traffic data.
+•	To examine real-world applications of AI and IoT in urban traffic settings by focusing on scalability, accuracy and impact.
+
+The objective of examining these sources is to establish a strong basis for creating a traffic light system that is more effective and flexible, in line with practical needs and technological viability.
+Literature review process
+Methods of Literature Reviews
+The literature analysis was carried out by employing a methodical strategy to find, pick, and assess pertinent papers that were in line with the study topic of "AI-driven traffic signal optimization using IoT sensors."
+
+1. Identification and Selection Methods:
+ A comprehensive search for academic journals, conference proceedings, and case studies published between 2020 and 2025 was the first step in the process. Titles, abstracts, and keywords were examined in order to reduce the initial pool of more than 30 sources. Ten papers were chosen for in-depth examination following a comprehensive assessment of quality and relevance.
 
 
-Background: Modern urban traffic problems are very serious, mainly reflected in traffic congestion
+
+2. Database, source and search term used:
+  2.1   Database and source included
+•	IEEE Xplore
+•	Google scholar
+2.2 Commonly searched term
+•	IOT-based Traffic management system
+•	AI-driven signal optimization
+•	Smart traffic system 
+•	Machine learning congestion management
+•	Real time traffic management using IOT sensors
+
+3. Inclusive and exclusive criteria
+3.1 Inclusive criteria
+•	Articles and journals published for 2020-2025
+•	Research focused on Machine learning, IOT AI, in Traffic management system
+•	Studies presenting real time-based solution 
+3.2 Exclusive Criteria
+•	Opinion based and non-technical journals
+•	Articles lacking practical validation and real-world applications
+•	Outdated tech with IOT and AI Integration
 
 
-Research motivation: How to deal with traffic congestion
 
-Limitations of the current transportation system
 
-Artificial intelligence and the Internet of Things can help solve current problems
+
+
+
+
+
+
+
+
+
+
+References 
+•	https://ieeexplore.ieee.org/document/10545276
+•	https://ieeexplore.ieee.org/document/10100296
+•	https://ieeexplore.ieee.org/document/10759478
+•	https://ieeexplore.ieee.org/document/10503563
+•	https://ieeexplore.ieee.org/document/8975582
+•	https://ieeexplore.ieee.org/document/9914174
+•	https://ieeexplore.ieee.org/document/8643187
+•	https://ieeexplore.ieee.org/document/10720388
+•	https://ieeexplore.ieee.org/document/9257874
+•	https://ieeexplore.ieee.org/document/9985506
+
+
+
 
 
 
