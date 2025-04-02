@@ -167,7 +167,9 @@ The literature analysis was carried out by employing a methodical strategy to fi
 
 [4] V. Subrahmanyam, O. S. Nagesh, Y. Venkatramana Reddy, A. P. Rao, M. Suresh and G. Neelima, "Internet of Things(IoT) Enabled Intelligent Traffic Control Management System By Hybrid Swarm Intelligence(SI) Algorithm," 2024 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI), Gwalior, India, 2024, pp. 1-6, doi: 10.1109/IATMSI60426.2024.10503563.
 
-[4]
+[5] M. K. M. Rabby, M. M. Islam and S. M. Imon, "A Review of IoT Application in a Smart Traffic Management System," 2019 5th International Conference on Advances in Electrical Engineering (ICAEE), Dhaka, Bangladesh, 2019, pp. 280-285, doi: 10.1109/ICAEE48663.2019.8975582.
+
+[6] 
 
 
 
