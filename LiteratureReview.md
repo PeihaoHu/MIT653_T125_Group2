@@ -159,6 +159,9 @@ The literature analysis was carried out by employing a methodical strategy to fi
 
 # References
 
+[1] S. J. Salunke and S. S. Bang, "Enhancing Traffic Incident Management and Regulatory Compliance Using IoT and Itms: A Mumbai Traffic Police Case Study," 2024 International Conference on Trends in Quantum Computing and Emerging Business Technologies, Pune, India, 2024, pp. 1-5, doi: 10.1109/TQCEBT59414.2024.10545276.
+
+[]
 
 
 
@@ -171,9 +174,12 @@ The literature analysis was carried out by employing a methodical strategy to fi
 
 
 References 
-•	https://ieeexplore.ieee.org/document/10545276
-•	https://ieeexplore.ieee.org/document/10100296
-•	https://ieeexplore.ieee.org/document/10759478
+
+1. 	https://ieeexplore.ieee.org/document/10545276
+  
+2. 	https://ieeexplore.ieee.org/document/10100296
+   
+3.  https://ieeexplore.ieee.org/document/10759478
 •	https://ieeexplore.ieee.org/document/10503563
 •	https://ieeexplore.ieee.org/document/8975582
 •	https://ieeexplore.ieee.org/document/9914174
