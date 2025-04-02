@@ -165,6 +165,10 @@ The literature analysis was carried out by employing a methodical strategy to fi
 
 [3] K. P. Muriuki, J. O. Okello and J. Chepkoech, "Advanced Intelligent Traffic Management System(AITMS): A Generative AI-Enhanced Model," 2024 IEEE PES/IAS PowerAfrica, Johannesburg, South Africa, 2024, pp. 1-3, doi: 10.1109/PowerAfrica61624.2024.10759478.
 
+[4] V. Subrahmanyam, O. S. Nagesh, Y. Venkatramana Reddy, A. P. Rao, M. Suresh and G. Neelima, "Internet of Things(IoT) Enabled Intelligent Traffic Control Management System By Hybrid Swarm Intelligence(SI) Algorithm," 2024 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI), Gwalior, India, 2024, pp. 1-6, doi: 10.1109/IATMSI60426.2024.10503563.
+
+[4]
+
 
 
 
