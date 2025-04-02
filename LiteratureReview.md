@@ -173,7 +173,7 @@ The literature analysis was carried out by employing a methodical strategy to fi
 
 [7] S. Soomro, M. H. Miraz, A. Prasanth and M. Abdullah, "Artificial intelligence enabled IoT: Traffic congestion reduction in smart cities," ​Smart Cities Symposium 2018, Bahrain, 2018, pp. 1-6, doi: 10.1049/cp.2018.1381.
 
-
+[8] D. Moldakhmetov, M. Mansurova, B. Belgibayev, Z. Baigarayeva, T. Sarsembayeva and A. Ospan, "AI-Powered Traffic Management for Busy Intersections," 2024 20th International Asian School-Seminar on Optimization Problems of Complex Systems (OPCS), Novosibirsk, Russian Federation, 2024, pp. 54-59, doi: 10.1109/OPCS63516.2024.10720388.
 
 
 
