@@ -161,7 +161,9 @@ The literature analysis was carried out by employing a methodical strategy to fi
 
 [1] S. J. Salunke and S. S. Bang, "Enhancing Traffic Incident Management and Regulatory Compliance Using IoT and Itms: A Mumbai Traffic Police Case Study," 2024 International Conference on Trends in Quantum Computing and Emerging Business Technologies, Pune, India, 2024, pp. 1-5, doi: 10.1109/TQCEBT59414.2024.10545276.
 
-[]
+[2]M. C et al., "Intelligent Traffic Monitoring, Prioritizing and Controlling Model based on GPS," 2023 International Conference on Innovative Data Communication Technologies and Application (ICIDCA), Uttarakhand, India, 2023, pp. 297-299, doi: 10.1109/ICIDCA56705.2023.10100296.
+
+
 
 
 
@@ -180,13 +182,20 @@ References
 2. 	https://ieeexplore.ieee.org/document/10100296
    
 3.  https://ieeexplore.ieee.org/document/10759478
-•	https://ieeexplore.ieee.org/document/10503563
-•	https://ieeexplore.ieee.org/document/8975582
-•	https://ieeexplore.ieee.org/document/9914174
-•	https://ieeexplore.ieee.org/document/8643187
-•	https://ieeexplore.ieee.org/document/10720388
-•	https://ieeexplore.ieee.org/document/9257874
-•	https://ieeexplore.ieee.org/document/9985506
+
+4. https://ieeexplore.ieee.org/document/10503563
+   
+5.	https://ieeexplore.ieee.org/document/8975582
+   
+6.	https://ieeexplore.ieee.org/document/9914174
+   
+7.	https://ieeexplore.ieee.org/document/8643187
+
+8.	https://ieeexplore.ieee.org/document/10720388
+
+9.	https://ieeexplore.ieee.org/document/9257874
+
+10.	https://ieeexplore.ieee.org/document/9985506
 
 
 
