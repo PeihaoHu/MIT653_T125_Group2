@@ -169,9 +169,9 @@ The literature analysis was carried out by employing a methodical strategy to fi
 
 [5] M. K. M. Rabby, M. M. Islam and S. M. Imon, "A Review of IoT Application in a Smart Traffic Management System," 2019 5th International Conference on Advances in Electrical Engineering (ICAEE), Dhaka, Bangladesh, 2019, pp. 280-285, doi: 10.1109/ICAEE48663.2019.8975582.
 
-[6] 
+[6] T. V. J. Rao, R. A. Sekar, B. Drakshyani, P. K. Chakravarthi, N. Kumareshan and S. P. Karthi, "IOT based Smart solution for Traffic congestion at Metro Cities," 2022 International Conference on Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES), Chennai, India, 2022, pp. 1-6, doi: 10.1109/ICSES55317.2022.9914174. 
 
-
+[7]
 
 
 
