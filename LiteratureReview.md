@@ -163,6 +163,9 @@ The literature analysis was carried out by employing a methodical strategy to fi
 
 [2]M. C et al., "Intelligent Traffic Monitoring, Prioritizing and Controlling Model based on GPS," 2023 International Conference on Innovative Data Communication Technologies and Application (ICIDCA), Uttarakhand, India, 2023, pp. 297-299, doi: 10.1109/ICIDCA56705.2023.10100296.
 
+[3] K. P. Muriuki, J. O. Okello and J. Chepkoech, "Advanced Intelligent Traffic Management System(AITMS): A Generative AI-Enhanced Model," 2024 IEEE PES/IAS PowerAfrica, Johannesburg, South Africa, 2024, pp. 1-3, doi: 10.1109/PowerAfrica61624.2024.10759478.
+
+
 
 
 
