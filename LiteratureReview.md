@@ -175,7 +175,9 @@ The literature analysis was carried out by employing a methodical strategy to fi
 
 [8] D. Moldakhmetov, M. Mansurova, B. Belgibayev, Z. Baigarayeva, T. Sarsembayeva and A. Ospan, "AI-Powered Traffic Management for Busy Intersections," 2024 20th International Asian School-Seminar on Optimization Problems of Complex Systems (OPCS), Novosibirsk, Russian Federation, 2024, pp. 54-59, doi: 10.1109/OPCS63516.2024.10720388.
 
+[9] H. Abohashima, M. Gheith and A. Eltawil, "A proposed IoT based Smart traffic lights control system within a V2X framework," 2020 2nd Novel Intelligent and Leading Emerging Sciences Conference (NILES), Giza, Egypt, 2020, pp. 338-343, doi: 10.1109/NILES50944.2020.9257874.
 
+[10] 
 
 
 
