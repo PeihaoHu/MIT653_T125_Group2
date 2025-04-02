@@ -91,9 +91,7 @@ Consolidates state-of-the-art IoT sensor tech for ITS.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Outline：
 
-Introduction
-
-Background of the problem
+Introduction and Background of the problem
 
 Related technology review (artificial intelligence technology, Internet of Things architecture)
 
@@ -108,10 +106,13 @@ Conclusion
 References
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 Literature review report
+
 Introduction
+
 In major cities worldwide, traffic congestion has become one of the most urgent problems due to increasing urbanization. Conventional traffic signal systems, which rely on fixed timings, frequently fail to adapt to changing traffic patterns, resulting in needless delays, increased fuel use, and air pollution. Nonetheless, there is a revolutionary trend toward more intelligent, data-driven traffic management systems due to the quick development of artificial intelligence (AI) and the Internet of Things (IoT). This review of the literature looks at how real-time traffic signal optimization, congestion reduction, and urban mobility are being achieved through the application of AI and IoT.
 
 Purpose and aim of literature review report
+
 The primary objective of this literature review is to examine the present research and technological advantages by using IOT sensors in AI-driven traffic signal optimization. Aims are listed below:
 •	To gain an understanding of the technologies and methods used in intelligent traffic systems.
 •	To determine the advantages and disadvantages of the models in use today.
@@ -119,7 +120,9 @@ The primary objective of this literature review is to examine the present resear
 •	To examine real-world applications of AI and IoT in urban traffic settings by focusing on scalability, accuracy and impact.
 
 The objective of examining these sources is to establish a strong basis for creating a traffic light system that is more effective and flexible, in line with practical needs and technological viability.
+
 Literature review process
+
 Methods of Literature Reviews
 The literature analysis was carried out by employing a methodical strategy to find, pick, and assess pertinent papers that were in line with the study topic of "AI-driven traffic signal optimization using IoT sensors."
 
