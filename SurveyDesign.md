@@ -8,7 +8,7 @@ Specifically, our aim is to:
 - evaluate how familiar people are with smart transportation systems.
 - Understand public perspective of AI’s role in improving traffic flow, safety, and public transport.
 - Identify concerns such as privacy, security, and reliability of AI-powered systems.
-- obtain responses on what features people would like to see in future smart cities.
+- gather responses on what features people would like to see in future smart cities.
 
 ---
 
@@ -21,7 +21,7 @@ The survey will be administered using Google Forms to allow easy access and effi
 - Posted on social media platforms such as Instagram and Facebook.
 - Shared in relevant community or tech-related forums to collect a range of perspectives.
 
-The survey will be open for 1–2 weeks to allow enough time for participants to respond.
+The survey will be open for 10-15 days to allow enough time for participants to respond.
 
 ---
 
