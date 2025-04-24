@@ -51,15 +51,16 @@ The survey will include the following questions:
    - ☐ Support  
    - ☐ Strongly support
 
+---
+
 ## Open-Ended Question
 
 8. **Do you have any suggestions or recommendations for improving traffic flow using smart technologies like AI-based signals?**
 
 9. **In your opinion, what should city planners prioritize when implementing smart transportation systems?**
 ---
-### Open-Ended Question:
 
-8. In your opinion, what improvements would you like to see in your city's transportation system using AI and smart technologies?
+
 
 # Survey Design
 
