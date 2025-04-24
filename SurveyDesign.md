@@ -90,17 +90,21 @@ The survey will be open for 10-15 days to allow enough time for participants to 
 
 ## 3. Selected Sample for the Survey
 
-##  Target Population
+## Target Population 
 
-Our target population includes professionals working in traffic management systems, and individuals responsible for controlling and monitoring traffic systems, such as traffic control room operators or signal coordinators.
+### Target Population
+Our target population includes professionals working in traffic management systems and individuals responsible for controlling and monitoring traffic systems, such as traffic control room operators or signal coordinators.
 
-### Sample Size:
-We aim to collect responses from at least 100 participants to ensure a diverse and meaningful dataset.
+### Sample Size
+We aim to collect responses from at least **100 participants** to ensure a diverse and meaningful dataset.
 
-### Participant Characteristics:
-- University students and young professionals (aged 18–35)
-- Individuals with basic knowledge of urban transport
-- Residents of cities or urban areas who regularly commute
+### Participant Characteristics
+- Professionals working in traffic management or urban transportation departments  
+- Individuals responsible for monitoring or controlling traffic systems (e.g., traffic control room operators)  
+- People with practical experience or technical knowledge of smart traffic technologies
+
+
+
 
 ---
 
