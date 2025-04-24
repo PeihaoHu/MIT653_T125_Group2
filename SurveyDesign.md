@@ -1,4 +1,4 @@
-## 4. Structure of the Survey
+##  Structure of the Survey
 
 The survey will include the following questions:
 
@@ -45,12 +45,6 @@ The survey will include the following questions:
    ☐ Likely  
    ☐ Very likely
 
-7. How do you usually commute in your city?  
-   ☐ Personal vehicle  
-   ☐ Public transport  
-   ☐ Bicycle  
-   ☐ Walking  
-   ☐ Ride-sharing apps (e.g., Uber, Bolt)
 
 ### Open-Ended Question:
 
