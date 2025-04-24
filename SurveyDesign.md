@@ -57,7 +57,6 @@ The survey will include the following questions:
 
 8. **Do you have any suggestions or recommendations for improving traffic flow using smart technologies like AI-based signals?**
 
----
 
 
 # Survey Design
