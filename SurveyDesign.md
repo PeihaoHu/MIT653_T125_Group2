@@ -4,48 +4,54 @@ The survey will include the following questions:
 
 ### Closed-Ended Questions:
 
-1. How familiar are you with the concept of smart transportation systems?  
-   ☐ Not at all familiar  
-   ☐ Slightly familiar  
-   ☐ Moderately familiar  
-   ☐ Very familiar  
-   ☐ Extremely familiar
+How often do you travel using roads or public transportation in a week?
+☐ Rarely (0–1 times)
+☐ Occasionally (2–3 times)
+☐ Regularly (4–6 times)
+☐ Daily (7+ times)
 
-2. Which of the following smart transportation technologies are you aware of? (Select all that apply)  
-   ☐ Smart traffic lights  
-   ☐ AI-based traffic prediction  
-   ☐ Autonomous vehicles  
-   ☐ Real-time public transport tracking  
-   ☐ Smart parking systems  
-   ☐ None of the above
+How familiar are you with the concept of smart transportation systems?
+☐ Not at all familiar
+☐ Slightly familiar
+☐ Moderately familiar
+☐ Very familiar
+☐ Extremely familiar
 
-3. Do you believe AI can help reduce traffic congestion in urban areas?  
-   ☐ Strongly disagree  
-   ☐ Disagree  
-   ☐ Neutral  
-   ☐ Agree  
-   ☐ Strongly agree
+Which of the following smart transportation technologies are you aware of? (Select all that apply)
+☐ Smart traffic lights
+☐ AI-based traffic prediction
+☐ Autonomous vehicles
+☐ Real-time public transport tracking
+☐ Smart parking systems
+☐ None of the above
 
-4. How concerned are you about data privacy and security in AI-based transport systems?  
-   ☐ Not concerned  
-   ☐ Slightly concerned  
-   ☐ Moderately concerned  
-   ☐ Very concerned  
-   ☐ Extremely concerned
+Have you ever experienced smart traffic signals or adaptive signal control systems in your city?
+☐ Yes
+☐ No
+☐ Not sure
 
-5. Would you trust an AI system to control traffic signals or manage public transport schedules in your city?  
-   ☐ Yes  
-   ☐ No  
-   ☐ Not sure
+Do you believe AI-based traffic signal systems can help reduce congestion and improve traffic flow?
+☐ Strongly disagree
+☐ Disagree
+☐ Neutral
+☐ Agree
+☐ Strongly agree
 
-6. How likely are you to support the implementation of AI and IoT technologies in your city's transportation system?  
-   ☐ Very unlikely  
-   ☐ Unlikely  
-   ☐ Neutral  
-   ☐ Likely  
-   ☐ Very likely
+What is the most common traffic-related problem you face during daily travel?
+☐ Long waiting time at signals
+☐ Unpredictable traffic congestion
+☐ Lack of real-time traffic updates
+☐ Poor coordination of traffic lights
+☐ Other: _____________
 
+Would you support the use of AI and IoT technologies for managing traffic and public transport in your city?
+☐ Strongly oppose
+☐ Oppose
+☐ Neutral
+☐ Support
+☐ Strongly support
 
+---
 ### Open-Ended Question:
 
 8. In your opinion, what improvements would you like to see in your city's transportation system using AI and smart technologies?
@@ -88,9 +94,6 @@ We aim to collect responses from at least 100 participants to ensure a diverse a
 - University students and young professionals (aged 18–35)
 - Individuals with basic knowledge of urban transport
 - Residents of cities or urban areas who regularly commute
-
----
-
 
 ---
 
