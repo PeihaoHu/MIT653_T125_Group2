@@ -60,7 +60,6 @@ The survey will include the following questions:
 ---
 
 
-
 # Survey Design
 
 ## 1. Objectives of the Survey
@@ -90,7 +89,9 @@ The survey will be open for 10-15 days to allow enough time for participants to 
 
 ## 3. Selected Sample for the Survey
 
-Our target population includes university students, tech enthusiasts, and urban residents who use public or private transportation regularly.
+##  Target Population
+
+Our target population includes professionals working in traffic management systems, and individuals responsible for controlling and monitoring traffic systems, such as traffic control room operators or signal coordinators.
 
 ### Sample Size:
 We aim to collect responses from at least 100 participants to ensure a diverse and meaningful dataset.
