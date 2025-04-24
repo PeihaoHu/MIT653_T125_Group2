@@ -1,44 +1,3 @@
-# Survey Design
-
-## 1. Objectives of the Survey
-
-The objective of this survey is to explore public awareness, opinions, and expectations regarding the use of Artificial Intelligence (AI) and Internet of Things (IoT) technologies in smart transportation systems. This aligns with our research goal of understanding how AI and IoT can be integrated into urban transportation to make cities more efficient, safe, and sustainable.
-
-Specifically, our aim is to:
-- evaluate how familiar people are with smart transportation systems.
-- Understand public perspective of AI’s role in improving traffic flow, safety, and public transport.
-- Identify concerns such as privacy, security, and reliability of AI-powered systems.
-- gather responses on what features people would like to see in future smart cities.
-
----
-
-## 2. How the Survey Will Be Conducted and Distributed
-
-The survey will be administered using Google Forms to allow easy access and efficient data collection.
-
-### Distribution Method:
-- Shared via university mailing lists and student WhatsApp/Telegram groups.
-- Posted on social media platforms such as Instagram and Facebook.
-- Shared in relevant community or tech-related forums to collect a range of perspectives.
-
-The survey will be open for 10-15 days to allow enough time for participants to respond.
-
----
-
-## 3. Selected Sample for the Survey
-
-Our target population includes university students, tech enthusiasts, and urban residents who use public or private transportation regularly.
-
-### Sample Size:
-We aim to collect responses from at least 100 participants to ensure a diverse and meaningful dataset.
-
-### Participant Characteristics:
-- University students and young professionals (aged 18–35)
-- Individuals with basic knowledge of urban transport
-- Residents of cities or urban areas who regularly commute
-
----
-
 ## 4. Structure of the Survey
 
 The survey will include the following questions:
@@ -96,6 +55,48 @@ The survey will include the following questions:
 ### Open-Ended Question:
 
 8. In your opinion, what improvements would you like to see in your city's transportation system using AI and smart technologies?
+
+# Survey Design
+
+## 1. Objectives of the Survey
+
+The objective of this survey is to explore public awareness, opinions, and expectations regarding the use of Artificial Intelligence (AI) and Internet of Things (IoT) technologies in smart transportation systems. This aligns with our research goal of understanding how AI and IoT can be integrated into urban transportation to make cities more efficient, safe, and sustainable.
+
+Specifically, our aim is to:
+- evaluate how familiar people are with smart transportation systems.
+- Understand public perspective of AI’s role in improving traffic flow, safety, and public transport.
+- Identify concerns such as privacy, security, and reliability of AI-powered systems.
+- gather responses on what features people would like to see in future smart cities.
+
+---
+
+## 2. How the Survey Will Be Conducted and Distributed
+
+The survey will be administered using Google Forms to allow easy access and efficient data collection.
+
+### Distribution Method:
+- Shared via university mailing lists and student WhatsApp/Telegram groups.
+- Posted on social media platforms such as Instagram and Facebook.
+- Shared in relevant community or tech-related forums to collect a range of perspectives.
+
+The survey will be open for 10-15 days to allow enough time for participants to respond.
+
+---
+
+## 3. Selected Sample for the Survey
+
+Our target population includes university students, tech enthusiasts, and urban residents who use public or private transportation regularly.
+
+### Sample Size:
+We aim to collect responses from at least 100 participants to ensure a diverse and meaningful dataset.
+
+### Participant Characteristics:
+- University students and young professionals (aged 18–35)
+- Individuals with basic knowledge of urban transport
+- Residents of cities or urban areas who regularly commute
+
+---
+
 
 ---
 
