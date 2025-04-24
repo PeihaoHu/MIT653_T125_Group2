@@ -4,53 +4,58 @@ The survey will include the following questions:
 
 ### Closed-Ended Questions:
 
-How often do you travel using roads or public transportation in a week?
-☐ Rarely (0–1 times)
-☐ Occasionally (2–3 times)
-☐ Regularly (4–6 times)
-☐ Daily (7+ times)
+1. **How often do you travel using roads or public transportation in a week?**  
+   - ☐ Rarely (0–1 times)  
+   - ☐ Occasionally (2–3 times)  
+   - ☐ Regularly (4–6 times)  
+   - ☐ Daily (7+ times)
 
-How familiar are you with the concept of smart transportation systems?
-☐ Not at all familiar
-☐ Slightly familiar
-☐ Moderately familiar
-☐ Very familiar
-☐ Extremely familiar
+2. **How familiar are you with the concept of smart transportation systems?**  
+   - ☐ Not at all familiar  
+   - ☐ Slightly familiar  
+   - ☐ Moderately familiar  
+   - ☐ Very familiar  
+   - ☐ Extremely familiar
 
-Which of the following smart transportation technologies are you aware of? (Select all that apply)
-☐ Smart traffic lights
-☐ AI-based traffic prediction
-☐ Autonomous vehicles
-☐ Real-time public transport tracking
-☐ Smart parking systems
-☐ None of the above
+3. **Which of the following smart transportation technologies are you aware of?** *(Select all that apply)*  
+   - ☐ Smart traffic lights  
+   - ☐ AI-based traffic prediction  
+   - ☐ Autonomous vehicles  
+   - ☐ Real-time public transport tracking  
+   - ☐ Smart parking systems  
+   - ☐ None of the above
 
-Have you ever experienced smart traffic signals or adaptive signal control systems in your city?
-☐ Yes
-☐ No
-☐ Not sure
+4. **Have you ever experienced smart traffic signals or adaptive signal control systems in your city?**  
+   - ☐ Yes  
+   - ☐ No  
+   - ☐ Not sure
 
-Do you believe AI-based traffic signal systems can help reduce congestion and improve traffic flow?
-☐ Strongly disagree
-☐ Disagree
-☐ Neutral
-☐ Agree
-☐ Strongly agree
+5. **Do you believe AI-based traffic signal systems can help reduce congestion and improve traffic flow?**  
+   - ☐ Strongly disagree  
+   - ☐ Disagree  
+   - ☐ Neutral  
+   - ☐ Agree  
+   - ☐ Strongly agree
 
-What is the most common traffic-related problem you face during daily travel?
-☐ Long waiting time at signals
-☐ Unpredictable traffic congestion
-☐ Lack of real-time traffic updates
-☐ Poor coordination of traffic lights
-☐ Other: _____________
+6. **What is the most common traffic-related problem you face during daily travel?**  
+   - ☐ Long waiting time at signals  
+   - ☐ Unpredictable traffic congestion  
+   - ☐ Lack of real-time traffic updates  
+   - ☐ Poor coordination of traffic lights  
+   - ☐ Other: _____________
 
-Would you support the use of AI and IoT technologies for managing traffic and public transport in your city?
-☐ Strongly oppose
-☐ Oppose
-☐ Neutral
-☐ Support
-☐ Strongly support
+7. **Would you support the use of AI and IoT technologies for managing traffic and public transport in your city?**  
+   - ☐ Strongly oppose  
+   - ☐ Oppose  
+   - ☐ Neutral  
+   - ☐ Support  
+   - ☐ Strongly support
 
+## Open-Ended Question
+
+8. **Do you have any suggestions or recommendations for improving traffic flow using smart technologies like AI-based signals?**
+
+9. **In your opinion, what should city planners prioritize when implementing smart transportation systems?**
 ---
 ### Open-Ended Question:
 
